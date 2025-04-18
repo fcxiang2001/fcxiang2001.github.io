@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "个人主页"
 title_separator          : "-"
 name                     : &name "fcxiang(向福川)"
 description              : &description "欢迎来的个人主页"
