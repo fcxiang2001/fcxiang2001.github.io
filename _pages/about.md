@@ -16,7 +16,7 @@ Paper
 *The Journal of Supercomputing. 2025.* (SCI)  
 https://doi.org/10.1007/s11227-025-07094-0
 
-**Hyp-DAN: Hyperbolic Distance-Aware Attention Networks.** 
+**Hyp-DAN: Hyperbolic Distance-Aware Attention Networks.**   
 **Fuchuan Xiang**, Jianhang Tang, Shaobo Li, Ji Xu.  
 *International Joint Conference on Rough Sets 2024 (IJCRS 2024).* (EI)  
 https://doi.org/10.1007/978-3-031-65665-1_20
