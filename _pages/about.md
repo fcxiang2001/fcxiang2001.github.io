@@ -6,7 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+教育经历
+======
+2024.8-2026.6 浙江大学 CAD&CG全国重点实验室 软件工程 联合培养硕士
+2023.8-2026.6 贵州大学 计算机科学与技术学院  软件工程 硕士
+2019.6-2023.6 南通大学 信息科学技术学院      软件工程 本科
 论文
 ======
 **SLRNode: node similarity-based leading relationship representation layer in graph neural networks for node classification.**  
