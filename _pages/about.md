@@ -13,8 +13,12 @@ Paper
 ======
 SLRNode: node similarity-based leading relationship representation layer in graph neural networks for node classification.  
 **Fuchuan Xiang**, Yao Xiao, Fenglin Cen, Ji Xu.  
-The Journal of Supercomputing 81, 657. 2025 (JCR Q2)  
-https://doi.org/10.1007/s11227-025-07094-0  
+The Journal of Supercomputing 81, 657. 2025 (SCI)  
+https://doi.org/10.1007/s11227-025-07094-0
+
+Hyp-DAN: Hyperbolic Distance-Aware Attention Networks.  
+**Fuchuan Xiang**, Jianhang Tang, Shaobo Li, Ji Xu  
+International Joint Conference on Rough Sets 2024 (IJCRS 2024) (EI)
 
 Getting started
 ======
