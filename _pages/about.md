@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Paper
+论文
 ======
 **SLRNode: node similarity-based leading relationship representation layer in graph neural networks for node classification.**  
 **Fuchuan Xiang**, Yao Xiao, Fenglin Cen, Ji Xu.  
@@ -19,14 +19,12 @@ https://doi.org/10.1007/s11227-025-07094-0
 *International Joint Conference on Rough Sets 2024 (IJCRS 2024).* (EI)  
 https://doi.org/10.1007/978-3-031-65665-1_20
 
-Getting started
+比赛
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1.向福川，
+1.苏展、李佳帆、向福川、孙赛、王雪洋，第13届全国大学生服务外包创新创业大赛全国三等奖，2022。
+2.苏展、李佳帆、向福川、孙赛、王雪洋，第13届全国大学生服务外包创新创业大赛华东区域赛省二等奖，2022。
+
 
 Site-wide configuration
 ------
